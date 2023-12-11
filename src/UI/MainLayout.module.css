@@ -1,0 +1,9 @@
+.navbar-wrapper {
+  display: flex;
+  justify-content: space-around;
+}
+
+.footer-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
